@@ -1,0 +1,9 @@
+============================= test session starts ==============================
+platform linux -- Python 3.8.0, pytest-5.2.2, py-1.8.0, pluggy-0.13.0
+rootdir: /home/user/exercise-4/q2
+collected 3 items
+
+tests/test_connection.py ..                                              [ 66%]
+tests/test_listener.py .                                                 [100%]
+
+============================== 3 passed in 0.33s ===============================
