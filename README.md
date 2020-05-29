@@ -2,7 +2,7 @@
 
 [Advanced System Design](https://advanced-system-design.com/) course at Tel-Aviv University by [Dan Gittik](https://dan-gittik.com/).
 
-The course provides vast knowledge, from learning programming through indulging about design, then understanding architecture till analyzing performance & mastering UI - and most importantly seasoned with an interesting philosophy. <br/>
+The course provides vast knowledge, from learning programming through indulging about design, then understanding architecture till analyzing performance & designing UI - and most importantly seasoned with an interesting philosophy. <br/>
 
 The course is built as a rolling project, from building a simple server-client till designing a whole system, whilst dealing with changing requirements and "bugs". </br>
 
