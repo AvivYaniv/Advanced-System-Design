@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/AvivYaniv/Advanced-System-Design.svg)](http://hits.dwyl.com/AvivYaniv/Advanced-System-Design)
+
 # Advanced-System-Design
 
 [Advanced System Design](https://advanced-system-design.com/) course at Tel-Aviv University by [Dan Gittik](https://dan-gittik.com/).
