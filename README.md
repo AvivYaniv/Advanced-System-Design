@@ -1,4 +1,5 @@
-[![HitCount](http://hits.dwyl.com/AvivYaniv/Advanced-System-Design.svg)](http://hits.dwyl.com/AvivYaniv/Advanced-System-Design)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AvivYaniv.Advanced-System-Design.issue.1) <br/>
+[![HitCount](http://hits.dwyl.com/AvivYaniv/Advanced-System-Design.svg)](http://hits.dwyl.com/AvivYaniv/Advanced-System-Design) <br/>
 
 # Advanced-System-Design
 
